@@ -1,0 +1,25 @@
+/* Write your CSS code here */
+.blog-container {
+  border: 4px solid #00e7ff;
+  height: 300px;
+  width: 600px;
+  border-radius: 10px;
+  box-sizing: border-box;
+}
+.nav-items {
+  display: flex;
+  background-color: #092e33;
+  justify-content: space-between;
+  padding-left: 15px;
+}
+.options {
+  color: text;
+  font-family: Roboto;
+  font-size: 17px;
+  padding-left: 15px;
+  padding-right: 15px;
+  color: white;
+}
+.inner-options {
+  display: flex;
+}

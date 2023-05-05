@@ -1,0 +1,30 @@
+/* Write your CSS code here */
+.item-container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin: 0px;
+  margin-bottom: 2px;
+}
+.logo-name-container {
+  display: flex;
+  align-items: center;
+}
+.logo {
+  height: 30px;
+  width: 30px;
+  border-radius: 15px;
+}
+.name {
+  color: white;
+  font-family: Roboto;
+  font-size: 15px;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+.values-container {
+  display: flex;
+  font-family: Roboto;
+  font-size: 15px;
+  align-items: center;
+}

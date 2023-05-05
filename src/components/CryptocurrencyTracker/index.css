@@ -1,0 +1,20 @@
+/* Write your CSS here */
+.app-container {
+  background-color: #000000;
+  height: 110vh;
+  background-size: cover;
+  padding: 30px;
+  display: flex;
+  flex-direction: column;
+}
+
+.header {
+  color: #00e7ff;
+  font-family: Roboto;
+  text-align: center;
+}
+.crypto-image {
+  max-height: 250px;
+  max-width: 780px;
+  align-self: center;
+}
